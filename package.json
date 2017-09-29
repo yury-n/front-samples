@@ -10,10 +10,8 @@
     "react-dom": "^15.5.4",
     "react-flexbox-layout": "^1.2.6",
     "react-modal": "^2.2.1",
-    "react-redux": "^5.0.5",
     "react-router": "^4.1.1",
     "react-router-dom": "^4.1.1",
-    "redux": "^3.7.1",
     "redux-thunk": "^2.2.0"
   },
   "devDependencies": {

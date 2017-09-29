@@ -6,7 +6,7 @@ import styles from './styles.css';
 
 class NavBar extends React.Component {
   render () {
-    const pages = ['modals', 'students', 'classrooms'];
+    const pages = ['modals', 'artists', 'works'];
 
     return (
       <div role="nav" className={styles['nav-bar']}>
